@@ -1,0 +1,14 @@
+.user-info {
+	display: inline-block;
+	margin-right: 15px;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.user-info span {
+	display: block;
+}
+
+.user-info img {
+	max-width: 75px
+}
