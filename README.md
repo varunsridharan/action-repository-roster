@@ -250,12 +250,12 @@ jobs:
 
 ### ↳ Stargazers
 <!-- REPOSITORY_STARS:START -->
-
+<table><tbody><tr><td align="center"><a href="https://github.com/varunsridharan" rel="nofollow"><img src="https://avatars1.githubusercontent.com/u/1884287?v=4" alt="@varunsridharan" style="max-width:100%;" width="75px;"><br/>@varunsridharan</a> </td><td align="center"><a href="https://github.com/EnterpriseBranding" rel="nofollow"><img src="https://avatars3.githubusercontent.com/u/6123260?v=4" alt="@EnterpriseBranding" style="max-width:100%;" width="75px;"><br/>@EnterpriseBranding</a> </td></tr></tbody></table><p align="center"><i><b>2</b> have starred this repository</i></p>
 <!-- REPOSITORY_STARS:END -->
 
 ### ↳ Forkers
 <!-- REPOSITORY_FORKS:START -->
-
+<table><tbody><tr><td align="center"><a href="https://github.com/EnterpriseBranding" rel="nofollow"><img src="https://avatars3.githubusercontent.com/u/6123260?v=4" alt="@EnterpriseBranding" style="max-width:100%;" width="75px;"><br/>@EnterpriseBranding</a> </td></tr></tbody></table><p align="center"><i><b>1</b> have forked this repository</i></p>
 <!-- REPOSITORY_FORKS:END -->
 
 <p align="center">
