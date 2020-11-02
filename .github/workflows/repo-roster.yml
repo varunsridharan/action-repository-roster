@@ -21,15 +21,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  update_examples:
-    needs: update_latest_roster
-    if: github.repository == 'varunsridharan/action-repository-roster'
-    name: "🐔  Update Examples"
-    runs-on: ubuntu-latest
-    steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
       - name: "🐔  Table Layout - default"
         uses: "varunsridharan/action-repository-roster@main"
         with:
