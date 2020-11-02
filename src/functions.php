@@ -69,7 +69,7 @@ function generate_output( $data_type, $output_type, $data, $style, $description 
 		save_file( $saveto, $content );
 		$image_url = github_url( true, $repo, '', $saveto );
 		$repo_url  = github_url( false, $repo, false, false );
-		$image_url .= '?' . time();
+		#$image_url .= '?' . time();
 		gh_commit( $saveto, '[Repository Roster] Latest Forked Users' );
 		if ( 'stars' === $data_type ) {
 			return "[![Stargazers repo roster for @${repo}](${image_url})](${repo_url}stargazers)";
