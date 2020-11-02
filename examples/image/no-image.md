@@ -4,13 +4,13 @@ User's avatar image will not be displayed
 ### ↳ Stargazers
 
 <!-- REPOSITORY_STARS:START -->
-[![Stargazers repo roster for @varunsridharan/action-repository-roster](https://raw.githubusercontent.com/varunsridharan/action-repository-roster/main/examples/roster-images/no-image-stars.svg?1604333809)](https://github.com/varunsridharan/action-repository-roster/stargazers)
+[![Stargazers repo roster for @varunsridharan/action-repository-roster](https://raw.githubusercontent.com/varunsridharan/action-repository-roster/main/examples/roster-images/no-image-stars.svg?1604334208)](https://github.com/varunsridharan/action-repository-roster/stargazers)
 <!-- REPOSITORY_STARS:END -->
 
 ### ↳ Forkers
 
 <!-- REPOSITORY_FORKS:START -->
-[![Forkers repo roster for @varunsridharan/action-repository-roster](https://raw.githubusercontent.com/varunsridharan/action-repository-roster/main/examples/roster-images/no-image-forks.svg?1604333809)](https://github.com/varunsridharan/action-repository-roster/stargazers)
+[![Forkers repo roster for @varunsridharan/action-repository-roster](https://raw.githubusercontent.com/varunsridharan/action-repository-roster/main/examples/roster-images/no-image-forks.svg?1604334208)](https://github.com/varunsridharan/action-repository-roster/stargazers)
 <!-- REPOSITORY_FORKS:END -->
 
 ---
