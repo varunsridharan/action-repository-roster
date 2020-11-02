@@ -10,7 +10,7 @@ User's name will not be displayed
 ### ↳ Forkers
 
 <!-- REPOSITORY_FORKS:START -->
-[![Forkers repo roster for @varunsridharan/action-repository-roster](https://raw.githubusercontent.com/varunsridharan/action-repository-roster/main/examples/roster-images/no-name-forks.svg?1604333830)](https://github.com/varunsridharan/action-repository-roster/stargazers)
+[![Forkers repo roster for @varunsridharan/action-repository-roster](https://raw.githubusercontent.com/varunsridharan/action-repository-roster/main/examples/roster-images/no-name-forks.svg?1604334229)](https://github.com/varunsridharan/action-repository-roster/stargazers)
 <!-- REPOSITORY_FORKS:END -->
 
 ---
