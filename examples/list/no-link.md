@@ -4,7 +4,7 @@ Github user's profile link will not be added
 ### ↳ Stargazers
 
 <!-- REPOSITORY_STARS:START -->
-
+<ul><li>@EnterpriseBranding <br/> </li></ul><p align="center"><i><b>1</b> have starred this repository</i></p>
 <!-- REPOSITORY_STARS:END -->
 
 ### ↳ Forkers
