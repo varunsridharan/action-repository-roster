@@ -4,7 +4,7 @@ Username text will be small
 ### ↳ Stargazers
 
 <!-- REPOSITORY_STARS:START -->
-
+<ul><li><a href="https://github.com/EnterpriseBranding" rel="nofollow"><sub>@EnterpriseBranding</sub> <br/> </a> </li></ul><p align="center"><i><b>1</b> have starred this repository</i></p>
 <!-- REPOSITORY_STARS:END -->
 
 ### ↳ Forkers
