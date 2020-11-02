@@ -4,7 +4,7 @@ User's name will not be displayed
 ### ↳ Stargazers
 
 <!-- REPOSITORY_STARS:START -->
-
+[![Stargazers repo roster for @varunsridharan/action-repository-roster](https://raw.githubusercontent.com/varunsridharan/action-repository-roster/main/examples/roster-images/no-name-stars.svg?1604333830)](https://github.com/varunsridharan/action-repository-roster/stargazers)
 <!-- REPOSITORY_STARS:END -->
 
 ### ↳ Forkers
