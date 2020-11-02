@@ -4,7 +4,7 @@ Username text will be bold
 ### ↳ Stargazers
 
 <!-- REPOSITORY_STARS:START -->
-[![Stargazers repo roster for @varunsridharan/action-repository-roster](https://raw.githubusercontent.com/varunsridharan/action-repository-roster/main/examples/roster-images/bold-stars.svg?1604334234)](https://github.com/varunsridharan/action-repository-roster/stargazers)
+[![Stargazers repo roster for @varunsridharan/action-repository-roster](https://raw.githubusercontent.com/varunsridharan/action-repository-roster/main/examples/roster-images/bold-stars.svg)](https://github.com/varunsridharan/action-repository-roster/stargazers)
 <!-- REPOSITORY_STARS:END -->
 
 ### ↳ Forkers
