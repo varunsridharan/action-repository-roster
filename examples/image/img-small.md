@@ -10,7 +10,7 @@ User's avatar image size will be small
 ### ↳ Forkers
 
 <!-- REPOSITORY_FORKS:START -->
-
+[![Forkers repo roster for @varunsridharan/action-repository-roster](https://raw.githubusercontent.com/varunsridharan/action-repository-roster/main/examples/roster-images/img-small-forks.svg?1604333821)](https://github.com/varunsridharan/action-repository-roster/stargazers)
 <!-- REPOSITORY_FORKS:END -->
 
 ---
