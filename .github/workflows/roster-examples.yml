@@ -1,4 +1,4 @@
-name: "🙏 Repository Roster Examples"
+name: "🙏  Roster Examples"
 
 on:
   workflow_dispatch:
@@ -9,6 +9,7 @@ on:
 
 jobs:
   update_examples:
+    if: github.repository == 'varunsridharan/action-repository-roster'
     name: "🐔  Update Examples"
     runs-on: ubuntu-latest
     steps:
