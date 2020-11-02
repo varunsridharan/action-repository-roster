@@ -9,7 +9,6 @@ on:
 
 jobs:
   update_latest_roster:
-    if: github.repository == 'varunsridharan/action-repository-roster'
     name: "🐔  Update Latest Roster"
     runs-on: ubuntu-latest
     steps:
