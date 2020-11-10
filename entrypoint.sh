@@ -5,7 +5,7 @@ source /gh-toolkit/shell.sh
 
 gh_log ""
 
-gitconfig "Github Repository Rooster"
+gitconfig "Github Repository Roster" "githubactionbot+roster@gmail.com"
 
 gh_validate_env "GITHUB_TOKEN" "Set the GITHUB_TOKEN env variable"
 
