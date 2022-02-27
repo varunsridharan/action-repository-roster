@@ -10,7 +10,7 @@ Users list will be generated using HTML `ol` _Ordered list_
 ### ↳ Forkers
 
 <!-- REPOSITORY_FORKS:START -->
-<ol><li><a href="https://github.com/EnterpriseBranding" rel="nofollow">@EnterpriseBranding <br/> </a> </li></ol><p align="center"><i><b>1</b> have forked this repository</i></p>
+<ol><li><a href="https://github.com/dexit" rel="nofollow">@dexit <br/> </a> </li><li><a href="https://github.com/trinitybranding" rel="nofollow">@trinitybranding <br/> </a> </li></ol><p align="center"><i><b>2</b> have forked this repository</i></p>
 <!-- REPOSITORY_FORKS:END -->
 
 ---
