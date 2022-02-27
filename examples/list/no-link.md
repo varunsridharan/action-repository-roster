@@ -10,7 +10,7 @@ Github user's profile link will not be added
 ### ↳ Forkers
 
 <!-- REPOSITORY_FORKS:START -->
-<ul><li>@EnterpriseBranding <br/> </li></ul><p align="center"><i><b>1</b> have forked this repository</i></p>
+<ul><li>@dexit <br/> </li><li>@trinitybranding <br/> </li></ul><p align="center"><i><b>2</b> have forked this repository</i></p>
 <!-- REPOSITORY_FORKS:END -->
 
 ---
