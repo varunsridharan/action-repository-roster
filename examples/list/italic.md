@@ -4,7 +4,7 @@ Username text will be italic
 ### ↳ Stargazers
 
 <!-- REPOSITORY_STARS:START -->
-<ul><li><a href="https://github.com/EnterpriseBranding" rel="nofollow"><i>@EnterpriseBranding</i> <br/> </a> </li></ul><p align="center"><i><b>1</b> have starred this repository</i></p>
+<ul><li><a href="https://github.com/dexit" rel="nofollow"><i>@dexit</i> <br/> </a> </li><li><a href="https://github.com/trinitybranding" rel="nofollow"><i>@trinitybranding</i> <br/> </a> </li></ul><p align="center"><i><b>2</b> have starred this repository</i></p>
 <!-- REPOSITORY_STARS:END -->
 
 ### ↳ Forkers
