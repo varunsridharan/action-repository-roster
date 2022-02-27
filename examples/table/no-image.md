@@ -4,7 +4,7 @@ User's avatar image will not be displayed
 ### ↳ Stargazers
 
 <!-- REPOSITORY_STARS:START -->
-<table><tbody><tr><td align="center"><a href="https://github.com/EnterpriseBranding" rel="nofollow">@EnterpriseBranding</a> </td></tr></tbody></table><p align="center"><i><b>1</b> have starred this repository</i></p>
+<table><tbody><tr><td align="center"><a href="https://github.com/dexit" rel="nofollow">@dexit</a> </td><td align="center"><a href="https://github.com/trinitybranding" rel="nofollow">@trinitybranding</a> </td></tr></tbody></table><p align="center"><i><b>2</b> have starred this repository</i></p>
 <!-- REPOSITORY_STARS:END -->
 
 ### ↳ Forkers
