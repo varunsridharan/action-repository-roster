@@ -10,7 +10,7 @@ Username text will be bold
 ### ↳ Forkers
 
 <!-- REPOSITORY_FORKS:START -->
-<table><tbody><tr><td align="center"><a href="https://github.com/EnterpriseBranding" rel="nofollow"><img src="https://avatars3.githubusercontent.com/u/6123260?v=4" alt="@EnterpriseBranding" style="max-width:100%;" width="75px;"><br/><b>@EnterpriseBranding</b></a> </td></tr></tbody></table><p align="center"><i><b>1</b> have forked this repository</i></p>
+<table><tbody><tr><td align="center"><a href="https://github.com/dexit" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/6205151?v=4" alt="@dexit" style="max-width:100%;" width="75px;"><br/><b>@dexit</b></a> </td><td align="center"><a href="https://github.com/trinitybranding" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/6123260?v=4" alt="@trinitybranding" style="max-width:100%;" width="75px;"><br/><b>@trinitybranding</b></a> </td></tr></tbody></table><p align="center"><i><b>2</b> have forked this repository</i></p>
 <!-- REPOSITORY_FORKS:END -->
 
 ---
