@@ -10,7 +10,7 @@ Username text will be italic
 ### ↳ Forkers
 
 <!-- REPOSITORY_FORKS:START -->
-<ul><li><a href="https://github.com/EnterpriseBranding" rel="nofollow"><i>@EnterpriseBranding</i> <br/> </a> </li></ul><p align="center"><i><b>1</b> have forked this repository</i></p>
+<ul><li><a href="https://github.com/dexit" rel="nofollow"><i>@dexit</i> <br/> </a> </li><li><a href="https://github.com/trinitybranding" rel="nofollow"><i>@trinitybranding</i> <br/> </a> </li></ul><p align="center"><i><b>2</b> have forked this repository</i></p>
 <!-- REPOSITORY_FORKS:END -->
 
 ---
