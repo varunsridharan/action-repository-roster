@@ -10,7 +10,7 @@ Github user's profile link will not be added
 ### ↳ Forkers
 
 <!-- REPOSITORY_FORKS:START -->
-<table><tbody><tr><td align="center"><img src="https://avatars3.githubusercontent.com/u/6123260?v=4" alt="@EnterpriseBranding" style="max-width:100%;" width="75px;"><br/>@EnterpriseBranding</td></tr></tbody></table><p align="center"><i><b>1</b> have forked this repository</i></p>
+<table><tbody><tr><td align="center"><img src="https://avatars.githubusercontent.com/u/6205151?v=4" alt="@dexit" style="max-width:100%;" width="75px;"><br/>@dexit</td><td align="center"><img src="https://avatars.githubusercontent.com/u/6123260?v=4" alt="@trinitybranding" style="max-width:100%;" width="75px;"><br/>@trinitybranding</td></tr></tbody></table><p align="center"><i><b>2</b> have forked this repository</i></p>
 <!-- REPOSITORY_FORKS:END -->
 
 ---
